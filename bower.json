@@ -1,0 +1,21 @@
+{
+  "name": "first-select-control-package",
+  "authors": [
+    "Martin <martin.trajanovski@gmail.com>"
+  ],
+  "description": "My first bower package for selectable controls.",
+  "main": "dist/allScripts.js",
+  "moduleType": [],
+  "keywords": [
+    "select-control"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
